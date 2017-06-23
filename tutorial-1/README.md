@@ -1,4 +1,6 @@
-In this tutroial, I am going to have a close look at the following model
+## Intorduction
+
+In this tutroial, I am going to build the following Hyperledger Fabric Blockchain Network.
 
 ![alt Highlevel](https://raw.githubusercontent.com/rezamt/hyperledger-fabric-tutorials/master/tutorial-1/docs/HLD.png)
 
