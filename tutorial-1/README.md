@@ -1,3 +1,7 @@
+In this tutroial, I am going to have a close look at the following model
+
+![alt Highlevel](https://raw.githubusercontent.com/rezamt/hyperledger-fabric-tutorials/master/tutorial-1/docs/HLD.png)
+
 ### Precondition 
 
 1- Makesure Goland has been installed and configured correctly. Worth to check your GoPath
@@ -184,8 +188,7 @@ e.g. make peer-docker
 ## Building our End-2-End Fabric Trading Application
 Now we are going to start with the first example e2e_cli, which is my favorit for learning how different components are wokring together.
 
-Image HERE
-
+![alt Highlevel](https://raw.githubusercontent.com/rezamt/hyperledger-fabric-tutorials/master/tutorial-1/docs/HLD.png)
 
 ### Preparation
 ```
