@@ -4,7 +4,7 @@ These instructions have been verified to work against the version "1.0.0-beta" t
 
 ![alt Highlevel](https://raw.githubusercontent.com/rezamt/hyperledger-fabric-tutorials/master/tutorial-1/docs/HLD.png)
 
-### Precondition 
+### Before begin 
 
 1- Makesure Goland has been installed and configured correctly. Worth to check your GoPath
 
