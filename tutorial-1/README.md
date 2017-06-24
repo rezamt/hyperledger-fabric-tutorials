@@ -127,7 +127,7 @@ required to successfully bootstrap a Fabric network and create a channel to
 transact upon.
 
 
-### Dowbloading Fabric Docker Images
+### Downloading Fabric Docker Images
 Lets foucs on "get-docker-images.sh" to download all images that we need to practice in this tutorial and the next tutorials.
 
 ```
@@ -151,6 +151,8 @@ ls -rtl $GOPATH/src/github.com/hyperledger/fabric/build/image
 
 
 docker images hyperledger/*
+
+:: Ouput
     REPOSITORY                     TAG                                   IMAGE ID            CREATED              SIZE
     hyperledger/fabric-couchdb     latest                                58edd590915e        About a minute ago   1.48GB
     hyperledger/fabric-couchdb     x86_64-1.0.0-rc1-snapshot-279fe2690   58edd590915e        About a minute ago   1.48GB
