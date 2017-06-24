@@ -307,7 +307,7 @@ FABRIC_CFG_PATH=$PWD
 
 ```
 
-### Define the anchor peer for Org1 & org2 on the channel (e.g. my-channel):
+### Define the Anchor Peers for both Organizations Org1 & org2 (e.g. my-channel):
 
 ```
 ./bin/configtxgen -profile TwoOrgsChannel -outputAnchorPeersUpdate ./channel-artifacts/Org1MSPanchors.tx -channelID $CHANNEL_ID -asOrg Org1MSP
