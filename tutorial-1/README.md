@@ -1,6 +1,6 @@
-## Intorduction
+## Getting Started
 
-In this tutroial, I am going to build the following Hyperledger Fabric Blockchain Network.
+These instructions have been verified to work against the version "1.0.0-beta" tagged docker images and the pre-compiled setup utilities within the supplied tar file. The following picture shows what we are going to build during the tutorial.
 
 ![alt Highlevel](https://raw.githubusercontent.com/rezamt/hyperledger-fabric-tutorials/master/tutorial-1/docs/HLD.png)
 
